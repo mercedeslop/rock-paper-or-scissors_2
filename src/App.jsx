@@ -61,7 +61,7 @@ function App() {
         placeholder='Escribe aqui ... '
       />
 
-      <button className='mx-3' onClick={jugar}>
+      <button className='mx-3 btn btn-primary' onClick={jugar}>
         JUGAR
       </button>
 
